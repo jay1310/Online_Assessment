@@ -23,7 +23,7 @@ Technology Used:
 6. Open your browser.
 7. Go to the address:  ```http://localhost/phpmyadmin ```
 8. Create a new databse named ```scoreboard```
-9. Upload the database file form the database folder named ```scoreboard.sql```
+9. Upload the database file named ```scoreboard.sql```
 10. Now the project is completely setup.
 11. Go to ```http://localhost/project``` and use the website.
 
